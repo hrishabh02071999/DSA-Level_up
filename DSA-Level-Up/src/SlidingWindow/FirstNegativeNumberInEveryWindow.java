@@ -1,3 +1,5 @@
+// Given an array of +ve and -ve numbers
+// Find first negative number in every window of size k
 package SlidingWindow;
 
 import java.util.ArrayList;
