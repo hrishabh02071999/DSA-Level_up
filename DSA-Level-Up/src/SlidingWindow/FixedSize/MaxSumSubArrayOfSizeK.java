@@ -2,7 +2,7 @@
 // Approach 1: - Brute Force :- Two Loops O(n*k)
 // Approach 2:- Sliding Window O(n)
 
-package SlidingWindow;
+package SlidingWindow.FixedSize;
 import java.util.*;
 public class MaxSumSubArrayOfSizeK {
 
