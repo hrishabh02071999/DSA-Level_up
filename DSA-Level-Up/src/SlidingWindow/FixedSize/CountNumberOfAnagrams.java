@@ -1,6 +1,6 @@
 // Given a string and a pattern string
 // Find number of anagrams of pattern in string
-package SlidingWindow;
+package SlidingWindow.FixedSize;
 
 import java.util.HashMap;
 import java.util.Scanner;
