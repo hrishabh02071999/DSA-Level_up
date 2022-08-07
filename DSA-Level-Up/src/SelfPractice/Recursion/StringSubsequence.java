@@ -9,7 +9,7 @@ package SelfPractice.Recursion;
 
 public class StringSubsequence {
     public static void main(String[] args) {
-        String input = "abc";
+        String input = "aabc";
         String output = "";
         solve(input,output);
     }
