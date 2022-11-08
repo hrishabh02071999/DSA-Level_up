@@ -13,8 +13,10 @@ public class SubsequenceWithSumK {
         ArrayList<Integer> arr = new ArrayList<>();
         arr.add(1);
         arr.add(2);
-        arr.add(1);
-        int k=2;
+        arr.add(3);
+        arr.add(4);
+        arr.add(5);
+        int k=6;
         int sum=0;
         int index=0;
         int n = arr.size();
